@@ -5,7 +5,7 @@ const Dark = () => {
   return (
     <div>
       {/* button for dark/light theme switch */}
-      <button></button>
+      <button id="btn">Dark</button>
     </div>
   )
 }
