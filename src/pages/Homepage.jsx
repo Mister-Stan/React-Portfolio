@@ -1,11 +1,17 @@
 import React from "react";
-import PageDisplay from "../components/PageDisplay.jsx";
 
 const Homepage = () => {
   return (
-    <PageDisplay>
-      <h1>homepage</h1>
-    </PageDisplay>
+      <div className="container">
+      <h1>
+
+        fgfgfdgdsgfdsfdg
+        hgfdghdgfhdf
+        jdfjhfddgfhgggggggggggg
+
+        jhgjgggggggggggggggggggggggggggggggggggggggggggggggggggg
+      </h1>
+      </div>
   );
 };
 

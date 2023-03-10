@@ -1,15 +1,13 @@
+import React from "react";
 import Header from "./Header.jsx";
 import Footer from "./Footer.jsx";
+// import ContactForm from "./Form.jsx";
 
-import React from "react";
 
-const PageDisplay = (props) => {
+const PageDisplay = () => {
   return (
-    <div className="container-fluid">
-      <Header />
-      {/* <h1> PageDisplay</h1> */}
-      {props.children}
-      <Footer />
+    <div className="container bg-danger">
+     
     </div>
   );
 };
