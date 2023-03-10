@@ -1,49 +1,49 @@
 [
-    {
-        "id": 1,
-        "title": "",
-        "gif": "",
-        "live": "",
-        "gitHub": ""
-    },
+  {
+    "id": 1,
+    "title": "Team Profile Generator",
+    "youtube": "https://www.youtube.com/watch?v=pFBpJK8nzmM",
+    "live": "https://mister-stan.github.io/team-profile-generator/",
+    "github": "https://github.com/Mister-Stan/team-profile-generator"
+  },
 
-    {
-        "id": 2,
-        "title": "",
-        "gif": "",
-        "live": "",
-        "gitHub": ""
-    },
-    
-    {
-        "id": 3,
-        "title": "",
-        "gif": "",
-        "live": "",
-        "gitHub": ""
-    },
+  {
+    "id": 2,
+    "title": "Coding Quiz",
+    "youtube": "https://www.youtube.com/watch?v=JTTQTPbY7MY",
+    "live": "https://mister-stan.github.io/Coding-Quiz/",
+    "github": "https://github.com/Mister-Stan/Coding-Quiz"
+  },
 
-    {
-        "id": 4,
-        "title": "",
-        "gif": "",
-        "live": "",
-        "gitHub": ""
-    },
+  {
+    "id": 3,
+    "title": "README Generator",
+    "youtube": "https://www.youtube.com/watch?v=lbBZq1wNsgE",
+    "live": "https://www.youtube.com/watch?v=lbBZq1wNsgE",
+    "github": "https://github.com/Mister-Stan/Professional-README-Generator"
+  },
 
-    {
-        "id": 5,
-        "title": "",
-        "gif": "",
-        "live": "",
-        "gitHub": ""
-    },
+  {
+    "id": 4,
+    "title": "Weather Dashboard",
+    "youtube": "https://www.youtube.com/watch?v=LqhHDwyccqQ",
+    "live": "https://mister-stan.github.io/weather-dashboard/",
+    "github": "https://github.com/Mister-Stan/weather-dashboard"
+  },
 
-    {
-        "id": 6,
-        "title": "",
-        "gif": "",
-        "live": "",
-        "gitHub": ""
-    }
+  {
+    "id": 5,
+    "title": "Planner App",
+    "youtube": "",
+    "live": "https://mister-stan.github.io/planner-app/",
+    "github": "https://github.com/Mister-Stan/planner-app"
+  },
+
+  {
+    "id": 6,
+    "title": "Password Generator",
+    "youtube": "https://www.youtube.com/watch?v=4CBtNmPfTT8",
+    "live": "https://mister-stan.github.io/Password-Generator/",
+    "github": "https://github.com/Mister-Stan/Password-Generator"
+  }
 ]

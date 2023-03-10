@@ -1,12 +1,12 @@
-import React from 'react';
-import PageDisplay from '../components/PageDisplay.jsx';
+import React from "react";
+import PageDisplay from "../components/PageDisplay.jsx";
 
 const Homepage = () => {
   return (
-      <PageDisplay>
+    <PageDisplay>
       <h1>homepage</h1>
-      </PageDisplay>
-  )
-}
+    </PageDisplay>
+  );
+};
 
-export default Homepage
+export default Homepage;
