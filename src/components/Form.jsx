@@ -20,7 +20,7 @@ function ContactForm () {
         <Form.Control as="textarea" placeholder="Your message" id="message" required/>
       </Form.Group>
 
-      <Button variant="info" type="submit" id="button">
+      <Button style={{marginTop:"10px", boxShadow: 'rgba(128, 128, 128, 0.5) 5px 5px 5px 5px'}} variant="info" type="submit" id="button">
         Submit
       </Button>
     </Form>

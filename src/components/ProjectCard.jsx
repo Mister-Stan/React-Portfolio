@@ -3,14 +3,15 @@ import React from "react";
 function ProjectCard(props) {
   return (
     <div className="col-md-6">
-      <div className="card text-center mb-5" style={{borderRadius:'15px', background:'violet', paddingTop:'2rem'}}>
+      <div className="card text-center mb-5" style={{borderRadius:'15px', background:'#C0C0C0', paddingTop:'1rem',boxShadow: 'rgba(128, 128, 128, 0.5) 10px 10px 10px 10px'
+}}>
         <div className="card-img-top embed-responsive embed-responsive-16by9">
           <iframe
             title={props.title}
             className="embed-responsive-item"
             src={`https://www.youtube.com/embed/${props.youtube.split("=")[1]}`}
             allowFullScreen
-            width={"70%"}
+            width={"60%"}
           ></iframe>
         </div>
         <div className="card-body">
@@ -21,6 +22,7 @@ function ProjectCard(props) {
               rel="noreferrer"
               target="_blank"
               className="btn btn-primary me-5"
+              style={{boxShadow: 'rgba(128, 128, 128, 0.5) 10px 10px 10px 5px'}}
             >
               Live
             </a>
@@ -32,6 +34,7 @@ function ProjectCard(props) {
               rel="noreferrer"
               target="_blank"
               className="btn btn-primary"
+              style={{boxShadow: 'rgba(128, 128, 128, 0.5) 10px 10px 10px 5px'}}
             >
               Github
             </a>

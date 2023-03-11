@@ -4,8 +4,12 @@ import ProjectsData from "../projectsData.json";
 
 const Projects = () => {
   return (
-    <div className="container">
-      <h1 className="mb-4">Projects:</h1>
+    <div className="container" style={{
+      boxShadow: 'rgba(128, 128, 128, 0.5) 10px 10px 15px 15px',
+      padding: "2rem",
+      borderRadius: "10px",
+    }}>
+      <h1 className="mb-4" >Projects:</h1>
       <div className="row">
         {ProjectsData.map((j) => (
           <ProjectCard
