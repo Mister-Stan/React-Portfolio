@@ -28,7 +28,8 @@ body {
 
 .navbarLinks li a {
   text-decoration: none;
-  margin-right: 8rem;
+  margin-top: 3rem;
+  margin-left:4rem;
 }
 
 /* .headerLine {

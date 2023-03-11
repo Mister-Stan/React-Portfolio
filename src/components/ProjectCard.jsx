@@ -2,16 +2,15 @@ import React from "react";
 
 function ProjectCard(props) {
   return (
-    <div className="col-md-4 ">
-      <div className="card text-center mb-5">
+    <div className="col-md-6">
+      <div className="card text-center mb-5" style={{borderRadius:'15px', background:'violet', paddingTop:'2rem'}}>
         <div className="card-img-top embed-responsive embed-responsive-16by9">
           <iframe
             title={props.title}
             className="embed-responsive-item"
             src={`https://www.youtube.com/embed/${props.youtube.split("=")[1]}`}
             allowFullScreen
-            width={"100%"}
-            
+            width={"70%"}
           ></iframe>
         </div>
         <div className="card-body">

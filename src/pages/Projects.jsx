@@ -5,7 +5,7 @@ import ProjectsData from "../projectsData.json";
 const Projects = () => {
   return (
     <div className="container">
-      <h1 className="mb-4">Projects</h1>
+      <h1 className="mb-4">Projects:</h1>
       <div className="row">
         {ProjectsData.map((j) => (
           <ProjectCard

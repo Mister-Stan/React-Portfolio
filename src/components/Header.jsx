@@ -5,16 +5,16 @@ const Header = () => {
   return (
     <div className="container">
       <div className="headerLine">
-        <h1>Eugeniu Stan</h1>
+               
         <ul className="navbarLinks">
           <li>
-            <Link to="/">Homepage</Link>
+            <Link to="/"><h2>Homepage</h2></Link>
           </li>
           <li>
-            <Link to="/projects">Projects</Link>
+            <Link to="/projects"><h2>Projects</h2></Link>
           </li>
           <li>
-            <Link to="/contact">Contact</Link>
+            <Link to="/contact"><h2>Contact</h2></Link>
           </li>
         </ul>
       </div>
