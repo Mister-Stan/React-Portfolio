@@ -18,7 +18,7 @@ const Footer = () => {
         <a
           href="https://github.com/Mister-Stan"
           style={{ textDecoration: "none" }}
-          target="_blank"
+          
         >
           Mister-Stan
         </a>
@@ -28,7 +28,7 @@ const Footer = () => {
         <a
           href="https://www.linkedin.com/in/eugeniu-stan-256854268/"
           style={{ textDecoration: "none" }}
-          target="_blank"
+          
         >
           Eugeniu Stan
         </a>
