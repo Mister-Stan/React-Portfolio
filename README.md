@@ -1,4 +1,4 @@
-# coding quiz
+# react portfolio
 
 ## Website link:https://react-esportfolio.netlify.app/
 
@@ -16,4 +16,4 @@ Run `npm install` into the terminal and then run `create react application`.
 
 ## Credits https://skillsforlife.edx.org/
 
-## License MIT ![GitHub](https://img.shields.io/github/license/mister-stan/password-generator)
+## License MIT
