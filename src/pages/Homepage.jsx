@@ -15,7 +15,7 @@ const Homepage = () => {
       </h4>
       <img
         src="../images/avataaars.png"
-        style={{ display: "block", margin: "0 auto" }}
+        style={{ display: "block", margin: "0 auto", maxWidth:"100%"}}
         alt="avatar"
       />
     </div>
