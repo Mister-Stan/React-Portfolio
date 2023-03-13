@@ -2,7 +2,7 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <div className="container" style={{ marginTop: "20rem"}}>
+    <div className="container" style={{ marginTop: "20rem", marginBottom:"2rem"}}>
      
       <h5 style={{ display: "inline-block", marginRight: "9rem" }}>
         Email:{" "}
