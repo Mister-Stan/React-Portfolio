@@ -17,7 +17,7 @@ const Contact = () => {
         <h3>My CV:</h3>
         <div style={{display:"flex"}}>
         <img src='./images/cv-first.png' alt="myCVfirstPage" style={{maxWidth:'50%'}}></img>
-        <img src='./images/cv-second.png' alt="myCVSecondPage" style={{maxWidth:'50%'}}></img>
+        <img src='./images/cv-second.png' alt="myCVSecondPage" style={{maxWidth:'49%'}}></img>
         </div>
         <a href="./cv/EugeniuStan.pdf" download>Download my CV</a>
         
