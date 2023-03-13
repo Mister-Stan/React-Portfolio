@@ -4,7 +4,7 @@ import React from "react";
 const Homepage = () => {
   return (
     <div>
-    <div className="container">
+    <div className="container" style={{marginBottom:"2rem"}}>
       <h1>Hi there!</h1>
 
       <h4>Welcome to my portfolio website!
