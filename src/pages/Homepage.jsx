@@ -1,5 +1,4 @@
 import React from "react";
-// import Header from "../components/Header.jsx";
 
 const Homepage = () => {
   return (
@@ -15,7 +14,7 @@ const Homepage = () => {
       </h4>
       <img
         src="../images/avataaars.png"
-        style={{ display: "block", margin: "0 auto", maxWidth:"100%"}}
+        style={{ display: "block", margin: "0 auto", maxWidth:"25%"}}
         alt="avatar"
       />
     </div>
