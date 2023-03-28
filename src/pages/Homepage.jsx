@@ -29,7 +29,7 @@ const Homepage = () => {
         <div className="logos" style={{ display: "flex", justifyContent: "center", alignItems: "center", flexWrap: "wrap", marginTop: "10rem" }}>
           <img src={html} alt="HTML Logo" style={{ width: "15%", margin: "1rem" }} />
           <img src={css} alt="CSS Logo" style={{ width: "12%", margin: "1rem" }} />
-          <img src={js} alt="JavaScript Logo" style={{ width: "22%", height:"150px", margin: "1rem" }} />
+          <img src={js} alt="JavaScript Logo" style={{ width: "22%", margin: "1rem" }} />
           <img src={nodejs} alt="Node.js Logo" style={{ width: "12%", margin: "1rem" }} />
           <img src={react} alt="React Logo" style={{ width: "12%", margin: "1rem" }} />
           <img src={github } alt="GitHub Logo" style={{ width: "12%", margin: "1rem" }} />
