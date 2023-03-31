@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <div className="container" style={{ marginTop: "20rem", marginBottom:"2rem"}}>
      
-      <h5 style={{ display: "inline-block", marginRight: "9rem" }}>
+      <h5 style={{ display: "inline-block", marginRight: "10rem" }}>
         Email:{" "}
         <a
           href="mailto: lucianstan87@yahoo.com"

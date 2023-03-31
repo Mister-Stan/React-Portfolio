@@ -1,16 +1,16 @@
 import Button from 'react-bootstrap/Button';
 import Form from 'react-bootstrap/Form';
-// import "./style.css";
+
 
 function ContactForm () {
   return (
     <Form >
-      <Form.Group className="mb-3" controlId="formBasicEmail">
+      <Form.Group className="mb-3">
         <Form.Label>Email address</Form.Label>
         <Form.Control type="email" placeholder="Enter email" id="email" required />
       </Form.Group>
 
-      <Form.Group className="mb-3" controlId="formBasicName">
+      <Form.Group className="mb-3">
         <Form.Label>Your Name</Form.Label>
         <Form.Control type="text" placeholder="Your name" id="name" required/>
       </Form.Group>
