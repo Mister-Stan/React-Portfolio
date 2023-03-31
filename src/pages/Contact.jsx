@@ -15,9 +15,9 @@ const Contact = () => {
           <Form />
           <div style={{marginTop:"50px"}}>
         <h3>My CV:</h3>
-        <div style={{display:"flex", marginLeft:"5%"}}>
-        <img src='./images/cv-first.png' alt="myCVfirstPage" style={{maxWidth:'50%'}}></img>
-        <img src='./images/cv-second.png' alt="myCVSecondPage" style={{maxWidth:'50%'}}></img>
+        <div style={{display:"flex", marginLeft:"7%", marginBottom:"30px"}}>
+        <img src='./images/cv-first.png' alt="myCVfirstPage"></img>
+        <img src='./images/cv-second.png' alt="myCVSecondPage"></img>
         </div>
         <a href="./cv/EugeniuStan.pdf" download>Download my CV</a>
         

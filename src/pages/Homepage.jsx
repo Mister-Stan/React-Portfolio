@@ -1,5 +1,4 @@
 import React from "react";
-// Import logo images
 import html from '../images/html.png';
 import css from '../images/css.png';
 import js from '../images/js.png';
@@ -25,14 +24,14 @@ const Homepage = () => {
           style={{ display: "block", margin: "0 auto", maxWidth: "25%" }}
           alt="avatar"
         />
-        {/* Display the logos */}
-        <div className="logos" style={{ display: "flex", justifyContent: "center", alignItems: "center", flexWrap: "wrap", marginTop: "10rem" }}>
-          <img src={html} alt="HTML Logo" style={{ width: "15%", margin: "1rem" }} />
-          <img src={css} alt="CSS Logo" style={{ width: "12%", margin: "1rem" }} />
-          <img src={js} alt="JavaScript Logo" style={{ width: "22%", margin: "1rem" }} />
-          <img src={nodejs} alt="Node.js Logo" style={{ width: "12%", margin: "1rem" }} />
-          <img src={react} alt="React Logo" style={{ width: "12%", margin: "1rem" }} />
-          <img src={github } alt="GitHub Logo" style={{ width: "12%", margin: "1rem" }} />
+        {/* display the logos */}
+        <div className="logos" style={{ display: "flex", justifyContent: "center", alignItems: "center", flexWrap: "wrap", marginTop: "13rem" }}>
+          <img src={html} alt="HTML Logo" style={{ width: "11%", margin: "2rem" }} />
+          <img src={css} alt="CSS Logo" style={{ width: "8%", margin: "2rem" }} />
+          <img src={js} alt="JavaScript Logo" style={{ width: "16%", margin: "2rem" }} />
+          <img src={nodejs} alt="Node.js Logo" style={{ width: "12%", margin: "2rem" }} />
+          <img src={react} alt="React Logo" style={{ width: "10%", margin: "2rem" }} />
+          <img src={github } alt="GitHub Logo" style={{ width: "13%", margin: "2rem" }} />
         </div>
       </div>
     </div>

@@ -4,14 +4,12 @@ body {
   background-color: rgb(161, 215, 203) !important;
   color: black;
   line-height: 1;
-  /* background-image: url(../src/assets/790863.jpg); */
 }
 * {
   margin: 0;
   padding: 0;
   border: 0;
   outline: 0;
-  /* box-sizing: border-box; */
   list-style: none;
   text-decoration: none;
 }
@@ -31,9 +29,3 @@ body {
   margin-top: 3rem;
   margin-left:4rem;
 }
-
-/* .headerLine {
-  display: flex;
-  justify-content: space-between;
-  background-color: rgb(197, 137, 223);
-} */
