@@ -57,10 +57,10 @@ const Homepage = () => {
             border: "2px solid #e8ffe8",
             color: "#000000",
             background: "#107a8b",
-            boxShadow: "inset 0px 1px 17px 7px rgba(242, 249, 250, 1)",
+            boxShadow: "inset 0px 12px 17px 7px rgba(161, 215, 203, 1)",
           }}
         >
-          {readMore ? "Read less <" : "Read more >"}
+          {readMore ? "Read less <<" : "Read more >>"}
         </button>
 
         <img
