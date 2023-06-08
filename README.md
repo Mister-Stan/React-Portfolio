@@ -1,9 +1,8 @@
 # react portfolio
 
-## Website link:https://react-esportfolio.netlify.app/
+## Website link:https://eugeniu-stan-dev.netlify.app/
 
-## ![my screenshot](./public/images/page-one.png)
-## ![my screenshot](./public/images/page-two.png)
+## ![my screenshot](./public/images/cv.png)
 
 
 ## This is a React application that represents my personal portfolio. 
