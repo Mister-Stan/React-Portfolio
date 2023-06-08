@@ -2,7 +2,8 @@
 
 ## Website link:https://eugeniu-stan-dev.netlify.app/
 
-## ![my screenshot](./public/images/Cv.png)
+## ![my screenshot](./public/images/page-one.png)
+## ![my screenshot](./public/images/page-two.png)
 
 
 ## This is a React application that represents my personal portfolio. 
