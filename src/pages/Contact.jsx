@@ -13,16 +13,7 @@ const Contact = () => {
       </h4> 
       <div>
         <Form />
-        <div style={{marginTop:"50px"}}>
-          <h4>My CV:</h4>
-          <div style={{display: 'flex', justifyContent: 'center'}}>
-            <div style={{margin: 'auto', maxWidth: '100%'}}>
-              <img src='./images/Cv.png' alt="" style={{width: '100%'}}></img>
-            </div>
-           
-          </div>
-          <a href="./cv/EugeniuStan.pdf" download>Download my CV</a>
-        </div>
+        
       </div>
     </section>
   );
